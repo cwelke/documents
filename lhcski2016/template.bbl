@@ -1,0 +1,36 @@
+\begin{thebibliography}{1}
+
+\bibitem{SUSYPrimer}
+S.~P. Martin, ``A supersymmetry primer,'' 1997.
+\newblock [Adv. Ser. Direct. High Energy Phys.18,1(1998)].
+
+\bibitem{sms}
+D.~Alves {\em et~al.}, ``{Simplified models for LHC new physics searches},''
+  {\em J. Phys. G}, vol.~39, p.~105005, 2012.
+\newblock Model of Section IV.E with topology (B+B).
+
+\bibitem{Junk:1999kv}
+T.~Junk, ``{Confidence level computation for combining searches with small
+  statistics},'' {\em Nucl. Instrum. Meth. A}, vol.~434, p.~435, 1999.
+
+\bibitem{Read:2002hq}
+A.~L. Read, ``{Presentation of search results: The $CL_s$ technique},'' {\em J.
+  Phys. G}, vol.~28, p.~2693, 2002.
+
+\bibitem{1lstop2015}
+T.~C. Collaboration, ``Search for stop pairs in the 1l final state with 13 tev
+  data,'' {\em CMS Physics Analysis Summary},
+  vol.~\href{http://cdsweb.cern.ch/record/2139650}{CMS-PAS-SUS-16-002}, 2016.
+
+\bibitem{1lmj2015}
+T.~C. Collaboration, ``Search for supersymmetry in pp collisions at sqrt (s) =
+  13 tev in the single-lepton final state using the sum of masses of large
+  radius jets,'' {\em CMS Physics Analysis Summary},
+  vol.~\href{http://cdsweb.cern.ch/record/2114814}{CMS-PAS-SUS-15-007}, 2015.
+
+\bibitem{1lincl2015}
+T.~C. Collaboration, ``Search for supersymmetry in events with one lepton,''
+  {\em CMS Physics Analysis Summary},
+  vol.~\href{http://cdsweb.cern.ch/record/2140638}{CMS-PAS-SUS-15-006}, 2015.
+
+\end{thebibliography}
