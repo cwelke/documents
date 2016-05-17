@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{SUSYPrimer}
 S.~P. Martin, ``A supersymmetry primer,'' 1997.
@@ -32,5 +32,31 @@ T.~C. Collaboration, ``Search for supersymmetry in pp collisions at sqrt (s) =
 T.~C. Collaboration, ``Search for supersymmetry in events with one lepton,''
   {\em CMS Physics Analysis Summary},
   vol.~\href{http://cdsweb.cern.ch/record/2140638}{CMS-PAS-SUS-15-006}, 2015.
+
+\bibitem{ssdilep2015}
+T.~C. Collaboration, ``Search for susy in same-sign dilepton events at 13
+  tev,'' {\em CMS Physics Analysis Summary},
+  vol.~\href{http://cdsweb.cern.ch/record/2114813}{CMS-PAS-SUS-15-008}, 2015.
+
+\bibitem{multilep2015}
+T.~C. Collaboration, ``Search for susy with multileptons in 13 tev data,'' {\em
+  CMS Physics Analysis Summary},
+  vol.~\href{http://cdsweb.cern.ch/record/2140637}{CMS-PAS-SUS-16-003}, 2016.
+
+\bibitem{CMSedge}
+V.~Khachatryan {\em et~al.}, ``{Search for Physics Beyond the Standard Model in
+  Events with Two Leptons, Jets, and Missing Transverse Momentum in pp
+  Collisions at sqrt(s) = 8 TeV},'' {\em JHEP}, vol.~04, p.~124, 2015.
+
+\bibitem{ATLASZPAPER}
+T.~A. Collaboration, ``Search for supersymmetry in events containing a
+  same-flavour opposite-sign dilepton pair, jets, and large missing transverse
+  momentum in $\mathrm{\sqrt{s}=8 tev}$ pp collisions with the atlas
+  detector,'' {\em The European Physical Journal C}, vol.~75, no.~7, 2015.
+
+\bibitem{osdilep2015}
+T.~C. Collaboration, ``Search for susy in final states with opposite-sign
+  dileptons at 13 tev,'' {\em CMS Physics Analysis Summary},
+  vol.~\href{http://cdsweb.cern.ch/record/2114811}{CMS-PAS-SUS-15-011}, 2015.
 
 \end{thebibliography}
