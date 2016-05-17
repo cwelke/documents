@@ -1,0 +1,75 @@
+% File template.tex
+%
+% This is a template file for the LHCSki 2016 workshop
+
+\documentclass{article}
+\usepackage{authblk}
+\usepackage{graphicx}
+\usepackage{verbatim}
+
+\newcommand{\MET}{${\mathrm{E_{T}^{miss}}}$}
+\newcommand{\pt}{${\mathrm{p_{T}}}$}
+
+\begin{document}
+\newcommand{\sessionday}[1]{\iffalse#1\fi} %% please leave that line
+\newcommand{\speaker}{\author}
+
+\sessionday{Tuesday} %% please insert day of your talk here, e.g. monday
+\title{Searches for supersymmetry at CMS in leptonic final states with 13 TeV Data}
+
+% the authors, in the "right" order
+%% \author[1]{Firstname, Lastname}
+%% % the speaker will be underlined
+\speaker[1]{C. Vince Welke on behalf of the CMS Collaboration}
+%% \author[]{}
+
+%% \author[1,2]{C. Vince, Welke}
+%% \affil[1]{CMS}
+\affil[1]{University of California - San Diego, La Jolla, California}
+
+\maketitle
+
+\abstract{
+  The CMS SUSY program is very active in performing searches with the 13 TeV data including multiple analyses done in regions with leptonic final states.
+  The results of these analyses are used to expand the reach of the searches done by CMS at 8 TeV and additionally to investigate two excesses seen in run I,
+  namely a 2.6 sigma excess seen by CMS and a 3.0 sigma excess seen by ATLAS.
+  These excesses were observed in two separate signal regions both having final states of at least 2 opposite sign same flavor leptons, jets, and \MET.}
+
+\clearpage
+
+%% Your text comes here. Do not use sections.  For bibliography use
+%% \cite{SUSYPrimer}. For figures use syntax of Fig.~\ref{fig-1}. 
+%% For tables use syntax in Tab.~\ref{tab-1}. Make sure your entire
+%% contribution is maximum two pages only, including references.
+\include{intro}
+
+\include{1lanalyses}
+\include{2lanalyses}
+
+
+
+Conclusion
+
+
+
+% BibTeX users please use 
+\bibdata{refs}
+\bibstyle{lucas}
+\bibliography{refs}
+
+%
+
+%% % Non-BibTeX users please use
+%% \begin{thebibliography}{}
+%% %
+%% % and use \bibitem to create references.
+%% %
+%% \bibitem{mycitation}
+%% % Format for Journal Reference
+%% Journal Author, Journal \textbf{Volume}, page numbers (year)
+%% % Format for books
+%% \bibitem{othercitation}
+%% Book Author, \textit{Book title} (Publisher, place, year) page numbers
+%% % etc
+%% \end{thebibliography}
+\end{document}
